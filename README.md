@@ -1,5 +1,5 @@
 ### Canlı Site
-[](https://github-username.github.io/repository-name)
+[](https://batuhantoy.github.io/PatikaPlusFrontendTasks/)
 
 
 ![Proje Ekran Görüntüsü](./assets/ss.PNG)
